@@ -2,5 +2,6 @@
 #include<stdlib.h>
 int main()
 {
-    return 0;
+	printf("privet");
+	return 0;
 }
